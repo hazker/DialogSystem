@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 698abf441fda01f499a465a3a227f5fe, type: 3}
   m_Name: Test
   m_EditorClassIdentifier: 
-  value: {fileID: 4900000, guid: 6cf48bb6d89824cc69e35b43f9a1aca6, type: 3}
+  value: {fileID: 4900000, guid: 69f72b636bd1c4247941bae5667394b4, type: 3}
